@@ -1,6 +1,6 @@
 # Web Application
 Security Assessment Report
 
-This assessment is an example report based on four PortSwigger labs that I have chosen.
+This assessment is an example report based on four PortSwigger labs.
 The customer and vendor are made up companies.
-Showcasing my understanding and knowledge about vulnerabilities found in web applications, and how to present them to management in a final report after have conducted penetration testing.
+Showcasing how a report about vulnerabilities found in web applications can look like, and how to present them to management after have conducted penetration testing.
